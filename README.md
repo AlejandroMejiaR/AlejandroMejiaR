@@ -1,20 +1,17 @@
 <div align="center">
-
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3llejIwaWNlMmh1NmN6cWIycHkyc2U1NGJlbW12NWE5eWdoa3RuMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/HD40eadxDQZkfvbG2u/giphy.gif" width="80" style="margin-right: 15px;" />
   <h1>Hi 👋, I’m Alejandro</h1>
-  <h3>I’m passionate about developing apps and games</h3>
-
+  <h3>I’m a passionate App and Game developer</h3>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3llejIwaWNlMmh1NmN6cWIycHkyc2U1NGJlbW12NWE5eWdoa3RuMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/HD40eadxDQZkfvbG2u/giphy.gif" width="80" /> 
   <p>
     <a href="https://github.com/AlejandroMejiaR" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
     <a href="https://www.linkedin.com/in/alejandro-mejia-rojas-4643991b2" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="mailto:alejandro197mejia@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
   </p>
-  
 </div>
 
 <h2 align="center">Tools and Technologies I Work With</h2>
 
-<div align="Left">
+<div align="left">
   <h3>Frontend</h3>
   <p>
     <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -35,6 +32,8 @@
     <img alt="Unity" src="https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white" />
     <img alt="Unreal Engine" src="https://img.shields.io/badge/-Unreal%20Engine-000000?style=flat-square&logo=unreal-engine&logoColor=white" />
     <img alt="Blender" src="https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white" />
+    <img alt="C#" src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
+    <img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
   </p>
 
   <h3>Collaboration</h3>
