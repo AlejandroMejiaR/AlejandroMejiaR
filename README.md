@@ -1,16 +1,65 @@
-## Hi there 👋
+<div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
+  <div style="display: flex; align-items: center;">
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3llejIwaWNlMmh1NmN6cWIycHkyc2U1NGJlbW12NWE5eWdoa3RuMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/HD40eadxDQZkfvbG2u/giphy.gif" width="80" style="margin-right: 15px;" />
+    <h1 style="margin: 0;">Hi 👋, I’m Alejandro</h1>
+  </div>
+  <h3>I’m passionate about developing apps and games</h3>
+  <p>
+    <a href="https://github.com/AlejandroMejiaR" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/alejandro-mejia-rojas-4643991b2" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:alejandro197mejia@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  </p>
+</div>
 
-<!--
-**AlejandroMejiaR/AlejandroMejiaR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h2>Tools and Technologies I Work With</h2>
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <div>
+    <h3>Frontend</h3>
+    <p>
+      <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+      <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+      <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+    </p>
+  </div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <div>
+    <h3>Backend</h3>
+    <p>
+      <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
+      <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+      <img alt="Supabase" src="https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+      <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+    </p>
+  </div>
+
+  <div>
+    <h3>Game Development</h3>
+    <p>
+      <img alt="Unity" src="https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white" />
+      <img alt="Unreal Engine" src="https://img.shields.io/badge/-Unreal%20Engine-000000?style=flat-square&logo=unreal-engine&logoColor=white" />
+      <img alt="Blender" src="https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white" />
+    </p>
+  </div>
+
+  <div>
+    <h3>Collaboration</h3>
+    <p>
+      <img alt="Miro" src="https://img.shields.io/badge/-Miro-FFBC00?style=flat-square&logo=miro&logoColor=black" />
+      <img alt="VSCode" src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+      <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+      <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=flat-square&logo=github&logoColor=white" />
+    </p>
+  </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
