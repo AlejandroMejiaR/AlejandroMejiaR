@@ -1,20 +1,20 @@
-<div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
-  <div style="display: flex; align-items: center;">
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; width: 100%;">
+  <div style="display: flex; align-items: center; justify-content: center;">
     <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3llejIwaWNlMmh1NmN6cWIycHkyc2U1NGJlbW12NWE5eWdoa3RuMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/HD40eadxDQZkfvbG2u/giphy.gif" width="80" style="margin-right: 15px;" />
     <h1 style="margin: 0;">Hi 👋, I’m Alejandro</h1>
   </div>
-  <h3>I’m passionate about developing apps and games</h3>
-  <p>
+  <h3 style="text-align: center;">I’m passionate about developing apps and games</h3>
+  <p style="text-align: center;">
     <a href="https://github.com/AlejandroMejiaR" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
     <a href="https://www.linkedin.com/in/alejandro-mejia-rojas-4643991b2" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="mailto:alejandro197mejia@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
   </p>
 </div>
 
+<h2 style="text-align: center;">Tools and Technologies I Work With</h2>
 
-<h2>Tools and Technologies I Work With</h2>
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+  <div style="text-align: center; margin: 10px;">
     <h3>Frontend</h3>
     <p>
       <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -23,7 +23,7 @@
     </p>
   </div>
 
-  <div>
+  <div style="text-align: center; margin: 10px;">
     <h3>Backend</h3>
     <p>
       <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
@@ -33,7 +33,7 @@
     </p>
   </div>
 
-  <div>
+  <div style="text-align: center; margin: 10px;">
     <h3>Game Development</h3>
     <p>
       <img alt="Unity" src="https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white" />
@@ -42,7 +42,7 @@
     </p>
   </div>
 
-  <div>
+  <div style="text-align: center; margin: 10px;">
     <h3>Collaboration</h3>
     <p>
       <img alt="Miro" src="https://img.shields.io/badge/-Miro-FFBC00?style=flat-square&logo=miro&logoColor=black" />
@@ -52,11 +52,6 @@
     </p>
   </div>
 </div>
-
-
-
-
-
 
 
 
