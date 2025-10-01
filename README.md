@@ -22,9 +22,9 @@
   <h3>Backend</h3>
   <p>
     <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
-    <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+    <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-F5820D?style=flat-square&logo=firebase&logoColor=white" />
     <img alt="Supabase" src="https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
-    <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+    <img alt="Python" src="https://img.shields.io/badge/-Python-FFD43B?style=flat-square&logo=python&logoColor=black" />
   </p>
 
   <h3>Game Development</h3>
@@ -32,7 +32,7 @@
     <img alt="Unity" src="https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white" />
     <img alt="Unreal Engine" src="https://img.shields.io/badge/-Unreal%20Engine-000000?style=flat-square&logo=unreal-engine&logoColor=white" />
     <img alt="Blender" src="https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white" />
-    <img alt="C#" src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
+    <img alt="C#" src="https://img.shields.io/badge/-C%23-512BD4?style=flat-square&logo=c-sharp&logoColor=white" />
     <img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
   </p>
 
